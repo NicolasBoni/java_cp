@@ -6,9 +6,9 @@
 
 # 🎯 Funcionalidades
 
-## 1. 📝 Exibição do Cardápio: O sistema exibe um cardápio formatado, com pratos e bebidas disponíveis, seus preços e descrições.
-   2. 📋 Seleção de Itens: O usuário pode interagir com o sistema para adicionar pratos e bebidas à sua conta.
-   3. 🧾 Geração de Nota Fiscal: Após selecionar os itens, o sistema exibe uma nota fiscal com a lista de itens consumidos e o valor total da compra.
+1. 📝 Exibição do Cardápio: O sistema exibe um cardápio formatado, com pratos e bebidas disponíveis, seus preços e descrições.
+2. 📋 Seleção de Itens: O usuário pode interagir com o sistema para adicionar pratos e bebidas à sua conta.
+3. 🧾 Geração de Nota Fiscal: Após selecionar os itens, o sistema exibe uma nota fiscal com a lista de itens consumidos e o valor total da compra.
 
 # 🛠️ Estrutura do Código
 
@@ -18,9 +18,9 @@
 
 # 🚀 Como Usar
 
-## 1. Ao iniciar o sistema, o cardápio será exibido com a lista de pratos e bebidas disponíveis.
-   2. O usuário deve digitar o número correspondente ao item que deseja adicionar à conta.
-   3. Após finalizar as escolhas (digitando 0), o sistema exibirá a nota fiscal com os itens escolhidos e o valor total da conta.
+1. Ao iniciar o sistema, o cardápio será exibido com a lista de pratos e bebidas disponíveis.
+2. O usuário deve digitar o número correspondente ao item que deseja adicionar à conta.
+3. Após finalizar as escolhas (digitando 0), o sistema exibirá a nota fiscal com os itens escolhidos e o valor total da conta.
 
 # 🖥️ Exemplo de Execução
 
@@ -51,5 +51,5 @@
 
 # ❗ Exceções Tratadas
 
-## O código está preparado para lidar com possíveis erros ao adicionar pratos e bebidas ao cardápio. Além disso, trata entradas inválidas do usuário durante a seleção dos itens, evitando que o sistema quebre.
+O código está preparado para lidar com possíveis erros ao adicionar pratos e bebidas ao cardápio. Além disso, trata entradas inválidas do usuário durante a seleção dos itens, evitando que o sistema quebre.
 
