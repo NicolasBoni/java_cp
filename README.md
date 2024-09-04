@@ -43,6 +43,7 @@
  Escolha o item (ou 0 para finalizar): 0
 
  =========== NOTA FISCAL ===========
+ 
  Lasanha - R$ 25.90
 
  Total da compra: R$ 25.90
