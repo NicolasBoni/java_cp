@@ -1,4 +1,4 @@
-# 🍽️ Restaurante Cardápio 
+<h1 align="center">🍽️ Restaurante Cardápio</h1>
 
 ## 📖 Descrição do Projeto
 
