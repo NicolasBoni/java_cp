@@ -1,4 +1,4 @@
-<h1 align="center"> 🍽️ Restaurante Cardápio </h1>
+# 🍽️ Restaurante Cardápio 
 
 ## 📖 Descrição do Projeto
 
@@ -24,10 +24,8 @@ Este projeto é um sistema simples de gerenciamento de cardápio para um restaur
 
 ## 🖥️ Exemplo de Execução
 
- ========================================
-          CARDÁPIO DO RESTAURANTE
- ========================================
- 
+ ===========  CARDÁPIO DO RESTAURANTE ===========
+        
  PRATOS:
  1. Lasanha                    R$ 25.90
    Lasanha de carne com molho branco.
