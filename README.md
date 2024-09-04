@@ -2,7 +2,7 @@
 
 ## 📖 Descrição do Projeto
 
-Este projeto é um sistema simples de gerenciamento de cardápio para um restaurante. O usuário pode visualizar um cardápio com pratos e bebidas, selecionar os itens que deseja consumir e, ao final, obter uma nota fiscal com o valor total dos itens escolhidos.
++ Este projeto é um sistema simples de gerenciamento de cardápio para um restaurante. O usuário pode visualizar um cardápio com pratos e bebidas, selecionar os itens que deseja consumir e, ao final, obter uma nota fiscal com o valor total dos itens escolhidos.
 
 ## 🎯 Funcionalidades
 
@@ -33,7 +33,8 @@ Este projeto é um sistema simples de gerenciamento de cardápio para um restaur
    Frango grelhado com legumes.
  3. Salada Caesar              R$ 15.50
    Salada de alface com croutons e molho Caesar.
- ...
+
+ ===================================
 
  Escolha os itens que deseja adicionar à conta (digite o número ou 0 para finalizar):
  Escolha o item (ou 0 para finalizar): 1
@@ -48,5 +49,5 @@ Este projeto é um sistema simples de gerenciamento de cardápio para um restaur
 
 ## ❗ Exceções Tratadas
 
-O código está preparado para lidar com possíveis erros ao adicionar pratos e bebidas ao cardápio. Além disso, trata entradas inválidas do usuário durante a seleção dos itens, evitando que o sistema quebre.
++ O código está preparado para lidar com possíveis erros ao adicionar pratos e bebidas ao cardápio. Além disso, trata entradas inválidas feita pelo usuário.
 
