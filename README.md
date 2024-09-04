@@ -1,8 +1,8 @@
-<h1 align="center"> 🍽️ Restaurante Cardápio </h1>
+<h1 align="center"> # 🍽️ Restaurante Cardápio </h1>
 
 # 📖 Descrição do Projeto
 
-## Este projeto é um sistema simples de gerenciamento de cardápio para um restaurante. O usuário pode visualizar um cardápio com pratos e bebidas, selecionar os itens que deseja consumir e, ao final, obter uma nota fiscal com o valor total dos itens escolhidos.
+Este projeto é um sistema simples de gerenciamento de cardápio para um restaurante. O usuário pode visualizar um cardápio com pratos e bebidas, selecionar os itens que deseja consumir e, ao final, obter uma nota fiscal com o valor total dos itens escolhidos.
 
 # 🎯 Funcionalidades
 
